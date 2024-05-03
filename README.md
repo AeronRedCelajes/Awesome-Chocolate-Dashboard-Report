@@ -1,5 +1,3 @@
-# Awesome-Chocolate-Dashboard-Report
-
 # Problem Scenario
 
   <ol>
