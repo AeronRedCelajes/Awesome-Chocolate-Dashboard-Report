@@ -40,3 +40,6 @@
         <li>Get the link of your Dashboard created in Tableau Cloud.</li>
         <li>Submit it to your assignment link</li>
     </ol>
+
+# Output
+<a href="https://aeronredcelajes.github.io/TableauDashboarding/">Awesome Chocolate Dashboard Report</a>
